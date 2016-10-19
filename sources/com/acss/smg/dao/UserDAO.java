@@ -1,0 +1,1 @@
+package com.acss.smg.dao;import com.acss.smg.model.UserModel;/*****************************************************/import java.io.IOException;public interface UserDAO {	public UserModel retrieveData(UserModel user) throws IOException;}
